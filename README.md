@@ -1,12 +1,22 @@
 # ArcadeGame
-Arcade Game in Unity.
-The game requires a few final touches to be worthy of publication, so I have also decided to include some graphics since I added this project to my CV.
+ArcadeGame: a Unity project featuring C# scripts and self-made 3D graphics.
+
+Allow me to take you on a brief tour of this exciting game.
+
+Your main goal is to avoid any collision with incoming enemies. This GIF showcases what not do, but don't worry I am a professional crash tester.
+![cars](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/37f6d502-fe53-45e9-950c-125b304e7925)
 
 
-![image](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/aed63ffb-d731-4ace-b278-1287fbc9f475)
-![image](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/fc74034e-68e1-42e0-8309-f59ebba6abd7)
-![image](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/a52c50ca-660c-41ae-86f7-707fa83377ef)
+It encompasses multiple stages, obstacles and easments, and here is one of them — a booster.
+![boost](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/77e833a4-9306-4214-bb5e-e5e24a329369)
 
 
-Final version will be uploaded on the days.
+But it's not going to be a walk in the park. I've added some surprises along the way
+
+![ufo](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/2c43de80-fbf4-480f-aa2b-6208ae143f0c)
+
+Take a look at a one of the levels, maybe it aint much, but it's honest work.
+![ufolevel](https://github.com/JakubGruszczewski/ArcadeGame/assets/114396056/6c4f4c33-1384-4fc3-8201-18d37b4efa04)
+
+That close encounter of the third kind and many more various levels are waiting for y'all in the game, so instead of rewatching that gameplay feel free to download it and play by yourself.
 
